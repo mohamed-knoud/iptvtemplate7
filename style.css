@@ -519,6 +519,7 @@ i + p{
             display: block;
             margin-bottom: 20px;
             margin: 20px auto;
+            padding:20px;
         }
         #slider{
             margin-left:0;
