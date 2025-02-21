@@ -11,7 +11,7 @@ a:visited,a{
 }
 @keyframes example {
     0% {
-        transform: translateX(-100px);
+        transform: translateX(0px);
     }
     100% {
         transform: translateX(100px);
