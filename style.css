@@ -7,15 +7,17 @@
 a:visited,a{
     color:black;
     text-decoration:none;
+    z-index:1000;
 }
 @keyframes example {
-  from {
-      left: -50px;
-  }
-  to {
-      left: 10px;
-  }
+    0% {
+        transform: translateX(-100px);
+    }
+    100% {
+        transform: translateX(100px);
+    }
 }
+
 a:first-child{
     animation:example 1s ease-in;
 }
