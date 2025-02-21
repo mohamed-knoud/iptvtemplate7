@@ -18,9 +18,6 @@ a:visited,a{
             }
 }
 
-a:first-child{
-    animation:example 1s ease-in;
-}
 body{
     background-color:#000;
     background-repeat: no-repeat;
