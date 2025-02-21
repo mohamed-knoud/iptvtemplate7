@@ -4,7 +4,10 @@
     box-sizing: border-box;
     font-family:Helvetica;
 }
-
+a:visited,a{
+    color:black;
+    text-decoration:none;
+}
 body{
     background-color:#000;
     background-repeat: no-repeat;
