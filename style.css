@@ -9,6 +9,7 @@ a:visited,a{
     text-decoration:none;
     z-index:6000;
     position:fixed;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Horizontal offset, vertical offset, blur radius, spread radius, color */
 }
 @keyframes example {
     0% {
